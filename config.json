@@ -1,0 +1,7 @@
+{
+    "logdb": "log.db",
+    "src": [{
+        "dir": "/workspaces/fs-video-encoder/vid",
+        "ext": ["mp4", "mov"]
+    }]
+}
